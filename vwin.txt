@@ -1,0 +1,27 @@
+                          Upload Information Template for Hobbes.nmsu.edu
+                          ===============================================
+
+        Archive Filename: vwin.zip 
+       Short Description: Minimize/Restore command window via program
+        Long Description: vwin runs in an OS/2 window or fullscreen session
+                          and will minimize and/or restore the window on command.
+      Proposed directory
+           for placement: /pub/os2/util/wps
+
+               Your name: Peter Flass  
+           Email address: Flass@LBDC.Senate.State.NY.US 
+    Program contact name: (same)
+   Program contact email: (same)
+             Program URL: (none) 
+
+      Would you like the
+   contact email address
+    included in listings? yes
+
+Operating System/Version: OS/2 Warp 4. 
+ Additional requirements: 
+
+                Replaces: (none)
+
+
+
